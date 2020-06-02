@@ -8,3 +8,4 @@
 out
 gen
 /auth.json
+/node_modules/
